@@ -15,7 +15,7 @@
     "@serwist/precaching": "^8.4.4",
     "@serwist/sw": "^8.4.4",
     "axios": "^1.7.4",
-    "html-react-parser": "^5.1.8",
+    "html-react-parser": "^5.1.12",
     "next": "^14.1.0",
     "react": "18.3.1",
     "react-dom": "18.2.0",
