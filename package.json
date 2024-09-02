@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.1.1",
-    "@serwist/next": "^9.0.5",
+    "@serwist/next": "^9.0.7",
     "@serwist/precaching": "^8.4.4",
     "@serwist/sw": "^9.0.5",
     "axios": "^1.7.4",
